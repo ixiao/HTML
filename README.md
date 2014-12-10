@@ -1,2 +1,2 @@
-HTML
+My Study HTML Way
 ====
