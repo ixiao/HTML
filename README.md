@@ -1,2 +1,2 @@
-My Study HTML Way
+My Study Python Way
 ====
